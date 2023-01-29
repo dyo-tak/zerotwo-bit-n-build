@@ -10,7 +10,8 @@ Teachers can therefore give proper guidance to them to improve there performance
 Data Set taken from - archive.ics.uci.edu (UCI Machine Learning Repository
 
 ### 1) Heat MAP
-![image](https://user-images.githubusercontent.com/97503802/215296675-de557523-ff20-41f0-b616-828904d1cc9c.png)
+![image](https://user-images.githubusercontent.com/97503802/215299962-1130dc8f-d19b-43e5-b7ab-4219926ccec5.png)
+
 
 ### 2) Correlation with Grades.
 ![image](https://user-images.githubusercontent.com/97503802/215296693-c47c0dff-3ca1-4b2b-8609-59ff59cc891b.png)

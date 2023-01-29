@@ -34,3 +34,7 @@ time to improve there score.
     - XGBoost Regressor
     - Random Forest Regression
     - Linear Regression [Finalised]
+    
+## Deployed Website:
+![image](https://user-images.githubusercontent.com/97503802/215299355-9f04aeec-8510-4182-94eb-56b6ec671aa1.png)
+

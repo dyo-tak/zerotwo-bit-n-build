@@ -1,6 +1,6 @@
 # Student Result Predictor
 
-##Problem Statement:
+## Problem Statement:
 Every class has weak students who need some extra attension from teachers, etc.
 There needs to be a ML model which predicts the grades of the student on basis of some important life attributes.
 Teachers can therefore give proper guidance to them to improve there performance.
